@@ -1,0 +1,98 @@
+.logo{
+	display: block;
+	width: 95%;
+	padding-left: 25%;
+	padding-right: 25%;
+	margin: 0 auto;
+	border-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: black;
+}
+
+ul li{
+	margin-bottom: 10px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+}
+
+li{
+	display: inline;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+}
+
+a:hover{
+	color: red;
+	text-decoration: none;
+}
+
+.nav{
+	padding-right: 10px;
+	padding-bottom: 10px;
+	text-align: right;
+	float: left;
+	border-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: lightgrey;
+}
+
+h1, h2{
+	margin-bottom: 10px;
+	font-family: 'Arvo', serif;
+}
+
+h1{
+	font-size: 25px;
+	line-height: 30px;
+}
+
+h2{
+	font-size: 20px;
+	line-height: 25px;
+}
+
+img.right{
+	max-width: 150px;
+}
+
+h3{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 900;
+	font-size: 12px;
+}
+
+h1, h2, h3{
+	padding-bottom: 5px;
+}
+
+section.right2{
+	border-style: solid;
+	border-left-width: 1px;
+	border-color: lightgrey;
+	padding-left: 20px;
+}
+
+section.r{
+	margin-top: -50%;
+}
+
+section.left{
+	border-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: lightgrey;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+p{
+	font-family: 'Playfair Display', serif;
+	line-height: 20px;
+	font-size: 14px;
+}
